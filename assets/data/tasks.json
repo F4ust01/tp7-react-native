@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1, 
+        "title": "Task 1",
+        "description": "Esta es una tarea de ejemplo para el usuario 1",
+        "date": "Sun Jun 09 2024 14:51:47 GMT-0300",
+        "user_id": 1,
+        "done": false
+    }, 
+    {
+        "id": 2, 
+        "title": "Task 2",
+        "description": "Esta es una tarea de ejemplo para el usuario 1",
+        "date": "Sun Jun 09 2024 14:51:47 GMT-0300",
+        "user_id": 1,
+        "done": true
+    },
+    {
+        "id": 3, 
+        "title": "Task 3",
+        "description": "Esta es una tarea de ejemplo para el usuario 1",
+        "date": "Sun Jun 09 2024 14:51:47 GMT-0300",
+        "user_id": 1,
+        "done": false
+    }, 
+    {
+        "id": 4, 
+        "title": "Task 4",
+        "description": "Esta es una tarea de ejemplo para el usuario 2",
+        "date": "Sun Jun 09 2024 14:51:47 GMT-0300",
+        "user_id": 2,
+        "done": true
+    },
+    {
+        "id": 5, 
+        "title": "Task 5",
+        "description": "Esta es una tarea de ejemplo para el usuario 2",
+        "date": "Sun Jun 09 2024 14:51:47 GMT-0300",
+        "user_id": 2,
+        "done": true
+    }
+]
